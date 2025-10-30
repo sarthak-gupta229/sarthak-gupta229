@@ -19,8 +19,8 @@
 
 <!-- Previous stat cards commented out
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=extinctsion&show_icons=true&theme=radical&hide_border=true" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=extinctsion&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <img width="400px" />
+  <img width="400px" />
 </p>
 -->
 
@@ -29,6 +29,7 @@
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-gupta229&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="sarthak-gupta229's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-gupta229&theme=dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
