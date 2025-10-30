@@ -1,4 +1,4 @@
-### Hi there, I'm [Aditya Sharma!](https://www.linkedin.com/in/aditya-sharma-1a19191b3/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
+### Hi there, I'm [Sarthak gupta!](https://www.linkedin.com/in/sarthak-gupta-786364354/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px">
 
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
@@ -9,7 +9,7 @@
 
 #### - 💻‍ I'm a Software Engineer
 
-#### - 🏆 Badges: Hacktoberfest developer badge [2021, 2022, 2023, 2024]
+#### - 🏆 Badges: Hacktoberfest developer badge [2025]
 
 #### - 🎨 Hobbies: Software Design and Contributing to open source
 
