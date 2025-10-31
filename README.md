@@ -1,6 +1,5 @@
 ### Hi there, I'm [Sarthak Gupta!](https://www.linkedin.com/in/sarthak-gupta-786364354/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="29px"><img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Web+Developer;Software+Engineer;Coder;Always+Learning+new+techonologies)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=extinctsion&color=blueviolet&label=Profile+Views&style=plastic)
 
 #### - 💻‍ I'm Sarthak Gupta, a Software Engineer
 #### - 🏆 Badges: Hacktoberfest developer badge [2025]
