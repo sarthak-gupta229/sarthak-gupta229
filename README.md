@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Sarthak 👋  <br>Frontend Developer | Learning Backend Development | DSA Enthusiast</p>
+<p align="left">Hi, I'm Sarthak 👋  <br>Full-Stack Developer (MERN) | DSA Enthusiast | Open Source Explorer</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on: Data Structures & Algorithms (DSA) and      building projects  <br>- 🤝 I’m looking to collaborate on: Frontend projects  <br>- 🌱 I’m currently learning: Backend development  <br>- 💬 Ask me about: Python and DSA basics  <br>- ⚡ Fun fact: I love solving coding problems and exploring new AI tools</p>
+<p align="left">- 🔭 I'm currently working on: Full-Stack MERN projects and Data Structures & Algorithms (DSA)  <br>- 🤝 I'm looking to collaborate on: Frontend, Full-Stack, and Open Source projects  <br>- 🌱 I'm currently learning: Next.js, Database Management Systems (DBMS), and System Design fundamentals  <br>- 💬 Ask me about: React, JavaScript, Python, MERN Stack, and DSA  <br>- ⚡ Fun fact: I enjoy turning ideas into projects and exploring AI-powered technologies</p>
 
 ###
 
@@ -27,21 +27,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
@@ -55,8 +59,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarthak-gupta229&theme=dracula" height="150" alt="stats graph"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarthak-gupta229&theme=dracula" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-gupta229&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-gupta229&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=donut" height="150" alt="languages graph"  />
 </div>
 
 ###
